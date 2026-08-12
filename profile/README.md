@@ -1,3 +1,12 @@
+> **Euler Tools is sunset (2026-08-12).** Product source of truth moved.
+>
+> Organized archive: https://github.com/tebayoso/eulertools
+> Raw dump: https://github.com/tebayoso/euler-tools-platform
+> Poxme: https://github.com/tebayoso/poxme-monorepo / https://github.com/tebayoso/poxme
+> Omnicost: https://github.com/tebayoso/omnicost
+>
+> Org landing: https://github.com/eulertools/eulertools-platform
+
 # Dear Euler Tools community,
 
 I'm writing to share some news about our project. After two years of hard work and dedication, I've made the difficult decision to shut down Euler Tools. I've been unable to raise the funding we needed or find a product market fit that would sustain our business in the long term. It's a tough pill to swallow, but I wanted to be transparent with you and let you know what's happening.
