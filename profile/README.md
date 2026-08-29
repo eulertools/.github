@@ -12,11 +12,13 @@
 </p>
 
 <p align="center">
+  <a href="https://euler.tools">euler.tools</a>
+  ·
+  <a href="https://github.com/eulertools">github.com/eulertools</a>
+  ·
   <a href="https://sinequix.com">sinequix.com</a>
   ·
   <a href="https://github.com/tebayoso">@tebayoso</a>
-  ·
-  <a href="https://github.com/sinequix/eulertools">archivo / archive</a>
 </p>
 
 ---
@@ -31,12 +33,9 @@ Parte de este material **puede ser reclamado por acreedores** u otros titulares 
 
 **No hay soporte.** No se responderán issues, pull requests ni correos dirigidos a Euler Tools.
 
-Consultas:
+Sitio: [euler.tools](https://euler.tools). Consultas: [sinequix.com](https://sinequix.com) · [@tebayoso](https://github.com/tebayoso).
 
-- [sinequix.com](https://sinequix.com)
-- [@tebayoso](https://github.com/tebayoso)
-
-Archivo técnico consolidado: [`sinequix/eulertools`](https://github.com/sinequix/eulertools). Los repositorios de producto de esta organización están **archivados**.
+Parte del código de producto se está publicando en esta organización como snapshots huérfanos (sin historial privado). El resto permanece archivado y privado.
 
 ---
 
@@ -50,12 +49,85 @@ Some of this material **may be claimed by creditors** or other rightsholders as 
 
 **There is no support.** Issues, pull requests, and mail sent to Euler Tools will not be answered.
 
-Enquiries:
+Site: [euler.tools](https://euler.tools). Enquiries: [sinequix.com](https://sinequix.com) · [@tebayoso](https://github.com/tebayoso).
 
-- [sinequix.com](https://sinequix.com)
-- [@tebayoso](https://github.com/tebayoso)
+Some product code is being published here as orphan snapshots (no private git history). The rest stays archived and private.
 
-Consolidated archive: [`sinequix/eulertools`](https://github.com/sinequix/eulertools). Product repositories in this organization are **archived**.
+---
+
+## Fundador · Founder
+
+**[Jorge de los Santos](https://github.com/tebayoso)** (@tebayoso) — Founder, CEO & CTO · 2020–2023.
+
+Fundó Euler Tools desde Tandil, Argentina, y la llevó en los años de Barcelona: explorer, marketplace, oráculos y el token $EULER. Cerró la empresa en 2023. Antes fundó [Sinequix](https://sinequix.com); sigue construyendo desde Tandil.
+
+He founded Euler Tools from Tandil, Argentina, and ran it through the Barcelona years. He shut the company down in 2023. He founded Sinequix before Euler and still builds from Tandil.
+
+- GitHub: [tebayoso](https://github.com/tebayoso)
+- LinkedIn: [tebayoso](https://www.linkedin.com/in/tebayoso/)
+- X: [@tebayoso](https://x.com/tebayoso)
+- Site: [tebayoso.github.io](https://tebayoso.github.io/)
+- pox.me: [tebayoso](https://pox.me/id/tebayoso)
+- Sinequix: [sinequix.com](https://sinequix.com)
+- Email: [jorge@pox.me](mailto:jorge@pox.me)
+
+---
+
+## Gracias · Special thanks
+
+A quienes construyeron Euler Tools con Jorge. Nombres y roles tomados de la web pública de 2022, créditos de repositorios y CODEOWNERS. Perfiles públicos cuando existen.
+
+People who built Euler Tools with Jorge. Names and roles from the 2022 public site, repo credits, and CODEOWNERS.
+
+| Name | Role | Links |
+|---|---|---|
+| **Eduardo Espinosa** | CFO | [LinkedIn](https://www.linkedin.com/in/eduardoespinosacreatuempresa/) |
+| **Doruk Tiryaki** | CMO | [LinkedIn](https://www.linkedin.com/in/doruktiryaki/) |
+| **Nico Álvarez** | Graphic designer & brand | [LinkedIn](https://www.linkedin.com/in/esnicoalvarez/) |
+| **Agustín Gabiola** | Frontend lead | [GitHub](https://github.com/agustintin) · [LinkedIn](https://www.linkedin.com/in/agust%C3%ADn-gabiola-548656a4/) |
+| **Eric Menagatti** | Frontend | [LinkedIn](https://www.linkedin.com/in/ericmenagatti/) |
+| **Estefanía Rodríguez** | UX/UI | [LinkedIn](https://www.linkedin.com/in/rod-estefania/) |
+| **Javier Barnes** | Tokenomics | [LinkedIn](https://www.linkedin.com/in/javier-barnes-8b0b5424/) |
+| **Victor Goff** | IT & security | [GitHub](https://github.com/kotp) · [LinkedIn](https://www.linkedin.com/in/vgoff/) |
+| **Meliksah Gurtemel** | Smart contracts (p2p / staking) | [GitHub](https://github.com/meliksahgurtemel) |
+| **@mfcattafesta** | Platform / API (`euler-api` CODEOWNERS) | [GitHub](https://github.com/mfcattafesta) |
+
+**Gracias especiales.** Euler Tools no existiría sin este equipo. This project would not have existed without them.
+
+Si falta alguien, es un olvido del archivo, no de la deuda. If someone is missing, that is an archival gap, not a lack of thanks.
+
+---
+
+## Código público · Public snapshots
+
+Snapshots huérfanos (un commit, sin historial privado). Orphan snapshots (single commit, no private history). **As is.**
+
+**Contracts**
+- [contracts](https://github.com/eulertools/contracts)
+- [p2p-contracts](https://github.com/eulertools/p2p-contracts)
+- [blockchain-contracts](https://github.com/eulertools/blockchain-contracts)
+- [blockchain-hardhat-contracts](https://github.com/eulertools/blockchain-hardhat-contracts)
+- [euler-blockchain-contracts](https://github.com/eulertools/euler-blockchain-contracts)
+- [blockchain-laboratory](https://github.com/eulertools/blockchain-laboratory)
+
+**Apps / APIs**
+- [euler-api](https://github.com/eulertools/euler-api)
+- [euler-cli](https://github.com/eulertools/euler-cli)
+- [typescript-sdk](https://github.com/eulertools/typescript-sdk)
+- [explorer-v2](https://github.com/eulertools/explorer-v2)
+- [subscriptions-client](https://github.com/eulertools/subscriptions-client)
+- [euler-unstoppable-login](https://github.com/eulertools/euler-unstoppable-login)
+- [docs.euler.tools](https://github.com/eulertools/docs.euler.tools)
+
+**Collectors / infra snippets**
+- [websocket-clients](https://github.com/eulertools/websocket-clients)
+- [evm-socket-client](https://github.com/eulertools/evm-socket-client)
+- [cdk-constructs](https://github.com/eulertools/cdk-constructs)
+- [slack-notifications](https://github.com/eulertools/slack-notifications)
+- [Discord-Bot](https://github.com/eulertools/Discord-Bot)
+- [support](https://github.com/eulertools/support)
+
+Landing: [euler.tools](https://euler.tools).
 
 ---
 
