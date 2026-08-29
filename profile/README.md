@@ -81,16 +81,13 @@ People who built Euler Tools with Jorge. Names and roles from the 2022 public si
 
 | Name | Role | Links |
 |---|---|---|
-| **Eduardo Espinosa** | CFO | [LinkedIn](https://www.linkedin.com/in/eduardoespinosacreatuempresa/) |
 | **Doruk Tiryaki** | CMO | [LinkedIn](https://www.linkedin.com/in/doruktiryaki/) |
 | **Nico Álvarez** | Graphic designer & brand | [LinkedIn](https://www.linkedin.com/in/esnicoalvarez/) |
 | **Agustín Gabiola** | Frontend lead | [GitHub](https://github.com/agustintin) · [LinkedIn](https://www.linkedin.com/in/agust%C3%ADn-gabiola-548656a4/) |
 | **Eric Menagatti** | Frontend | [LinkedIn](https://www.linkedin.com/in/ericmenagatti/) |
 | **Estefanía Rodríguez** | UX/UI | [LinkedIn](https://www.linkedin.com/in/rod-estefania/) |
-| **Javier Barnes** | Tokenomics | [LinkedIn](https://www.linkedin.com/in/javier-barnes-8b0b5424/) |
 | **Victor Goff** | IT & security | [GitHub](https://github.com/kotp) · [LinkedIn](https://www.linkedin.com/in/vgoff/) |
 | **Meliksah Gurtemel** | Smart contracts (p2p / staking) | [GitHub](https://github.com/meliksahgurtemel) |
-| **@mfcattafesta** | Platform / API (`euler-api` CODEOWNERS) | [GitHub](https://github.com/mfcattafesta) |
 
 **Gracias especiales.** Euler Tools no existiría sin este equipo. This project would not have existed without them.
 
