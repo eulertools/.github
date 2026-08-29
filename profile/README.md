@@ -81,6 +81,7 @@ People who built Euler Tools with Jorge. Names and roles from the 2022 public si
 
 | Name | Role | Links |
 |---|---|---|
+| **Alejandro Silva** | VP of Engineering | |
 | **Doruk Tiryaki** | CMO | [LinkedIn](https://www.linkedin.com/in/doruktiryaki/) |
 | **Nico Álvarez** | Graphic designer & brand | [LinkedIn](https://www.linkedin.com/in/esnicoalvarez/) |
 | **Agustín Gabiola** | Frontend lead | [GitHub](https://github.com/agustintin) · [LinkedIn](https://www.linkedin.com/in/agust%C3%ADn-gabiola-548656a4/) |
