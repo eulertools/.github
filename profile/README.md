@@ -89,6 +89,8 @@ People who built Euler Tools with Jorge. Names and roles from the 2022 public si
 | **Estefanía Rodríguez** | UX/UI | [LinkedIn](https://www.linkedin.com/in/rod-estefania/) |
 | **Victor Goff** | IT & security | [GitHub](https://github.com/kotp) · [LinkedIn](https://www.linkedin.com/in/vgoff/) |
 | **Meliksah Gurtemel** | Smart contracts (p2p / staking) | [GitHub](https://github.com/meliksahgurtemel) |
+| **Gerardo Perrucci** | `euler-app` scaffold | |
+| **Jitendra Muradnar** | `marketplace-client` | |
 
 **Gracias especiales.** Euler Tools no existiría sin este equipo. This project would not have existed without them.
 
@@ -107,15 +109,20 @@ Snapshots huérfanos (un commit, sin historial privado). Orphan snapshots (singl
 - [blockchain-hardhat-contracts](https://github.com/eulertools/blockchain-hardhat-contracts)
 - [euler-blockchain-contracts](https://github.com/eulertools/euler-blockchain-contracts)
 - [blockchain-laboratory](https://github.com/eulertools/blockchain-laboratory)
+- [blockchain-bots](https://github.com/eulertools/blockchain-bots)
+- [platform-nft-zksnark](https://github.com/eulertools/platform-nft-zksnark)
 
 **Apps / APIs**
 - [euler-api](https://github.com/eulertools/euler-api)
 - [euler-cli](https://github.com/eulertools/euler-cli)
+- [euler-app](https://github.com/eulertools/euler-app)
 - [typescript-sdk](https://github.com/eulertools/typescript-sdk)
 - [explorer-v2](https://github.com/eulertools/explorer-v2)
+- [marketplace-client](https://github.com/eulertools/marketplace-client)
 - [subscriptions-client](https://github.com/eulertools/subscriptions-client)
 - [euler-unstoppable-login](https://github.com/eulertools/euler-unstoppable-login)
 - [docs.euler.tools](https://github.com/eulertools/docs.euler.tools)
+- [onboarding](https://github.com/eulertools/onboarding)
 
 **Collectors / infra snippets**
 - [websocket-clients](https://github.com/eulertools/websocket-clients)
