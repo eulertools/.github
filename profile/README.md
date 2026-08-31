@@ -111,9 +111,13 @@ Snapshots huérfanos (un commit, sin historial privado). Orphan snapshots (singl
 - [blockchain-laboratory](https://github.com/eulertools/blockchain-laboratory)
 - [blockchain-bots](https://github.com/eulertools/blockchain-bots)
 - [platform-nft-zksnark](https://github.com/eulertools/platform-nft-zksnark)
+- [platform-nft](https://github.com/eulertools/platform-nft)
+- [platform-nft-factory](https://github.com/eulertools/platform-nft-factory)
 
 **Apps / APIs**
 - [euler-api](https://github.com/eulertools/euler-api)
+- [explorer-client](https://github.com/eulertools/explorer-client)
+- [platform-api](https://github.com/eulertools/platform-api)
 - [euler-cli](https://github.com/eulertools/euler-cli)
 - [euler-app](https://github.com/eulertools/euler-app)
 - [typescript-sdk](https://github.com/eulertools/typescript-sdk)
@@ -133,6 +137,7 @@ Snapshots huérfanos (un commit, sin historial privado). Orphan snapshots (singl
 - [websocket-clients](https://github.com/eulertools/websocket-clients)
 - [evm-socket-client](https://github.com/eulertools/evm-socket-client)
 - [cdk-constructs](https://github.com/eulertools/cdk-constructs)
+- [platform-core](https://github.com/eulertools/platform-core)
 - [slack-notifications](https://github.com/eulertools/slack-notifications)
 - [Discord-Bot](https://github.com/eulertools/Discord-Bot)
 - [support](https://github.com/eulertools/support)
