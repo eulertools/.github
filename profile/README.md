@@ -123,8 +123,13 @@ Snapshots huérfanos (un commit, sin historial privado). Orphan snapshots (singl
 - [euler-unstoppable-login](https://github.com/eulertools/euler-unstoppable-login)
 - [docs.euler.tools](https://github.com/eulertools/docs.euler.tools)
 - [onboarding](https://github.com/eulertools/onboarding)
+- [euler-platform](https://github.com/eulertools/euler-platform)
+- [euler-final](https://github.com/eulertools/euler-final)
+- [platform-cms](https://github.com/eulertools/platform-cms)
+- [platform-oms](https://github.com/eulertools/platform-oms)
 
 **Collectors / infra snippets**
+- [blockchain-clients](https://github.com/eulertools/blockchain-clients)
 - [websocket-clients](https://github.com/eulertools/websocket-clients)
 - [evm-socket-client](https://github.com/eulertools/evm-socket-client)
 - [cdk-constructs](https://github.com/eulertools/cdk-constructs)
